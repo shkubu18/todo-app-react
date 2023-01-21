@@ -56,4 +56,5 @@ const Button = styled.button`
     border: none;
     font-family: 'Dosis', sans-serif;
     cursor: pointer;
+    margin-left: 5px;
 `;
